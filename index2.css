@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(247, 206, 247)
+}
+h1, .center, h2, h3, h4 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+}
+h2, h3, h4, h5 {
+    font-size: larger;
+    font-weight: bold;
+}
+.center {
+font-size: larger;
+color:rgb(90, 90, 175);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
